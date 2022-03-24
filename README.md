@@ -10,10 +10,16 @@
 <table border="0">
   <tr>
     <td valign="top">
-        <a href="https://linkedin.com/in/gustavo-sm" target="_blank">
-          <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png"  width="48px" height="48px"/>
-        </a>
-      </td> 
+      <a href="https://linkedin.com/in/gustavo-sm" target="_blank">
+        <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png"  width="48px" height="48px"/>
+      </a>
+    </td> 
+    
+    <td valign="top">
+      <a href="https://linkedin.com/in/gustavo-sm" target="_blank">
+        <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png"  width="48px" height="48px"/>
+      </a>
+    </td> 
       
     
   </tr>
