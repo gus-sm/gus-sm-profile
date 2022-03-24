@@ -7,18 +7,10 @@
 
 ##### Perfis:
 
-<table border="0">
-  <tr>
-    <td valign="top">
-     <a href="https://linkedin.com/in/gustavo-sm" target="_blank"> 
-       <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png" width="48" heigth="48"/> 
-     </a>
-    </td>
-     <td valign="top">
-       <a href="https://www.hackerrank.com/gustavo1sad" target="_blank">
-         <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" width="48" heigth="48"/>
-       </a>
-      </td>
-  </tr>
-</table>
+
+<div>
+<a href="https://www.linkedin.com/in/gustavo-sm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.hackerrank.com/gustavo1sad" target="_blank"><img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" target="_blank" width="48" heigth = "48"></a>
+  
+</div>
 
