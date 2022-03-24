@@ -7,7 +7,7 @@
 
 ##### Perfis:
 
-<table>
+<table border="0">
   <tr>
     <td valign="top"><img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png"  width="48px" height="48px"/></td>
     <td valign="top"><img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" width="48px" height="48px"/></td>
