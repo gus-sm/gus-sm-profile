@@ -10,9 +10,14 @@
 <table border="0">
   <tr>
     <td valign="top">
-     <a href="https://linkedin.com/in/gustavo-sm" target="_blank"> <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png" width="48" heigth="48"/> </a>
+     <a href="https://linkedin.com/in/gustavo-sm" target="_blank"> 
+       <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png" width="48" heigth="48"/> 
+     </a>
     </td>
-    <a href="https://www.hackerrank.com/gustavo1sad" target="_blank"> <td valign="top"><img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" width="48" heigth="48"/></a>
+     <td valign="top">
+       <a href="https://www.hackerrank.com/gustavo1sad" target="_blank">
+         <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" width="48" heigth="48"/>
+       </a>
       </td>
   </tr>
 </table>
