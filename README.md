@@ -9,11 +9,13 @@
 
 <div>
 <a href="https://www.linkedin.com/in/gustavo-sm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a> <br>
+
  
+ <h5> Utilizo essa plataforma (HackerRank) para treinar e reforçar meus conhecimentos em algoritmos e lógica de programação. </h5>
 <a href="https://www.hackerrank.com/gustavo1sad" target="_blank">
  <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" target="_blank" width="48" heigth = "48">
   <h5 float = "right"> Utilizo essa plataforma (HackerRank) para treinar e reforçar meus conhecimentos em algoritmos e lógica de programação. </h5>
- </a> 
+</a> 
 
 </div>
 
