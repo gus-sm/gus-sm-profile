@@ -4,4 +4,4 @@
 - 🌱 Estou estudando: processos e boas práticas em CI/CD (DevOps), princípios SOLID e NoSQL.
 - 💡 Meus conhecimentos: React.js, Node.js, Express,HTML, CSS, Linux, Bash Script, Terraform, Docker;
 
-`![]https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin-icon.ico`
+`![](https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/linkedin_logo.png)`
