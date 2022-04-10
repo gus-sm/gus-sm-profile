@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu perfil =D 👋
+## Olá =D 👋
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de uma API simples para um Commerce com o objetivo de aplicar meus conhecimentos, de maneira prática.
 - 🌱 Estou estudando: processos e boas práticas em CI/CD (DevOps), arquitetura de software, NoSQL.
