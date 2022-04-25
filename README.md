@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/gustavo-sm" target="_blank"><img src="https://raw.githubusercontent.com/gus-sm/gus-sm/master/linkedin_logo.png" target="_blank" width="48" heigth="48"></a> <br>
 
  
- <h5> Utilizo essa plataforma (HackerRank) para treinar e reforçar meus conhecimentos em algoritmos e estrutura de dados. </h5>
+ <h5> HackerRank </h5>
 <a href="https://www.hackerrank.com/gustavosm" target="_blank">
  <img src="https://raw.githubusercontent.com/gus-sm/gus-sm-profile/master/HackerRank-Icon.jpg" target="_blank" width="48" heigth="48">
 </a> 
