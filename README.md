@@ -1,11 +1,6 @@
-## Olá =D 👋
+## Olá, muito prazer =D, bem vindo ao meu GitHub 👋
 
-- 🔭 Atualmente estou trabalhando no desenvolvimento de uma API simples para um Commerce com o objetivo de aplicar meus conhecimentos de maneira prática.
-- 🌱 Estou estudando: processos e boas práticas em CI/CD (DevOps), arquitetura de software e princípios SOLID.
-- 💡 Meus conhecimentos: React.js, Node.js, Express, HTML, CSS, Linux, Bash Script, Terraform, Docker, banco de dados relacionais (MySQL, PostgreSQL);
-
-
-### Perfis:
+### Caso queira saber mais sobre mim:
 
 <div style="display: flex">
 <h5> LinkedIn </h5>
