@@ -7,8 +7,14 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 
+
+<div style="display: flex">
+   <img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=dark" />
+</div>  
+
+
 ##### Caso queira saber mais sobre mim:
-[Curriculum vitae, (**LinkedIn**)](https://linkedin.com/in/gustavo-sm)  
+[Linkedin](https://linkedin.com/in/gustavo-sm)  
 [Hackerrank, (**algorithm practice**)](hackerrank.com/gustavosm)  
 
 ```Typescript
@@ -32,7 +38,7 @@ class Me {
    private _job : Job;
    private _age : number;
    
-   constructor(name : string, job : string, age : number) {
+   constructor(name : string, job : Job, age : number) {
       this._name = name;
       this._job = job;
       this._age = age;
@@ -49,8 +55,3 @@ class Me {
 const job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
 me = new Me('Gustavo', job, 23);
 ```
- 
-
-<div style="display: flex">
-   <img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=dark" />
-</div>  
