@@ -16,7 +16,7 @@
 
 ##### Caso queira saber mais sobre mim:
 <a target="_blank" href="https://linkedin.com/in/gustavo-sm"> Linkedin </a>  
-<a target="_blank" href="https://hackerrank.com/gustavosm"> HackerRank, algorithm practice </a>
+<a target="_blank" href="https://hackerrank.com/gustavosm"> HackerRank (algorithm practice)</a>
 
 ```Typescript
 const job: Job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
