@@ -55,8 +55,9 @@ class Me {
    
    public greetings() : string {
       return `Oi :), me chamo ${this._name},\ 
-              tenho ${this._age} anos,\  
+              tenho ${this._age} anos\  
               e trabalho atualmente como ${this._job.role} no ${this._job.company}.`;
    }
 }
 ```
+> Oi :), me chamo Gustavo, tenho 23 anos e atualmente trabalho como Eng. de software Jr. no Itaú Unibanco.
