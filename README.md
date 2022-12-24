@@ -19,6 +19,9 @@
 <a target="_blank" href="https://hackerrank.com/gustavosm"> HackerRank, algorithm practice </a>
 
 ```Typescript
+const job: Job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
+me: Me = new Me('Gustavo', 23, job);
+
 class Job {
    private _role : string;
    private _company: string;
@@ -54,8 +57,4 @@ class Me {
               e trabalho atualmente como ${this._job.role} no ${this._job.company}.`;
    }
 }
-
-
-const job: Job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
-me: Me = new Me('Gustavo', 23, job);
 ```
