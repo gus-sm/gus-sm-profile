@@ -8,9 +8,49 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 
 ##### Caso queira saber mais sobre mim:
-🏹  [Curriculum vitae, (**LinkedIn**)](https://linkedin.com/in/gustavo-sm)
+[Curriculum vitae, (**LinkedIn**)](https://linkedin.com/in/gustavo-sm)
+[Hackerrank, (**Algorithm practice**)](hackerrank.com/gustavosm)  
+
+```Typescript
+class Me {
+   private _name : string;
+   private _job : Job;
+   private _age : number;
+   
+   constructor(name : string, job : string, age : number) {
+      this._name = name;
+      this._job = job;
+      this._age = age;
+   }
+   
+   public greetings() : string {
+      return `Oi :), me chamo ${this._name},\ 
+              tenho ${this._age} anos,\  
+              e trabalho atualmente como ${this._job.role} no ${this._job.company}.`;
+   }
+}
+
+class Job {
+   private _role : string;
+   private _company: string;
+   constructor(role: string, company: string){
+      this._role = role;
+      this._company = company;
+   }
+   public get role() {
+      return this._role;
+   }
+   public get company() {
+      return this._company;
+   }
+}
+
+const job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
+me = new Me('Gustavo', job, 23);
+
+```
+ 
+
 <div style="display: flex">
    <img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=dark" />
-</div>
-
-
+</div>  
