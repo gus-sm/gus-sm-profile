@@ -14,8 +14,8 @@
 
 
 ##### Caso queira saber mais sobre mim:
-[Linkedin](https://linkedin.com/in/gustavo-sm)  
-[Hackerrank, (**algorithm practice**)](hackerrank.com/gustavosm)  
+<a href = "https://linkedin.com/in/gustavo-sm"> Linkedin </a>  
+<a href = "https://hackerrank.com/gustavosm"> HackerRank, algorithm practice </a>
 
 ```Typescript
 class Job {
