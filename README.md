@@ -8,10 +8,25 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 
 ##### Caso queira saber mais sobre mim:
-[Curriculum vitae, (**LinkedIn**)](https://linkedin.com/in/gustavo-sm)
-[Hackerrank, (**Algorithm practice**)](hackerrank.com/gustavosm)  
+[Curriculum vitae, (**LinkedIn**)](https://linkedin.com/in/gustavo-sm)  
+[Hackerrank, (**algorithm practice**)](hackerrank.com/gustavosm)  
 
 ```Typescript
+class Job {
+   private _role : string;
+   private _company: string;
+   constructor(role: string, company: string){
+      this._role = role;
+      this._company = company;
+   }
+   public get role() {
+      return this._role;
+   }
+   public get company() {
+      return this._company;
+   }
+}
+
 class Me {
    private _name : string;
    private _job : Job;
@@ -30,24 +45,9 @@ class Me {
    }
 }
 
-class Job {
-   private _role : string;
-   private _company: string;
-   constructor(role: string, company: string){
-      this._role = role;
-      this._company = company;
-   }
-   public get role() {
-      return this._role;
-   }
-   public get company() {
-      return this._company;
-   }
-}
 
 const job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
 me = new Me('Gustavo', job, 23);
-
 ```
  
 
