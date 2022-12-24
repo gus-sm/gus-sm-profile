@@ -35,10 +35,10 @@ class Job {
 
 class Me {
    private _name : string;
-   private _job : Job;
    private _age : number;
+   private _job : Job;
    
-   constructor(name : string, job : Job, age : number) {
+   constructor(name : string, age : number, job : Job) {
       this._name = name;
       this._job = job;
       this._age = age;
@@ -52,6 +52,6 @@ class Me {
 }
 
 
-const job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
-me = new Me('Gustavo', job, 23);
+const job: Job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
+me: Me = new Me('Gustavo', 23, job);
 ```
