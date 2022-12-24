@@ -22,6 +22,8 @@
 const job: Job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
 me: Me = new Me('Gustavo', 23, job);
 
+me.greetings();
+
 class Job {
    private _role : string;
    private _company: string;
