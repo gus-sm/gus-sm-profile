@@ -21,13 +21,16 @@
 class Job {
    private _role : string;
    private _company: string;
+   
    constructor(role: string, company: string){
       this._role = role;
       this._company = company;
    }
+   
    public get role() {
       return this._role;
    }
+   
    public get company() {
       return this._company;
    }
