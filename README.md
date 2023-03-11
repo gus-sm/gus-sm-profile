@@ -9,14 +9,14 @@
    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 
-</div>
+</div> <br/>
+<div style="display:flex">
+   <img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-sm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gustavo-sm" />
+</div> 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=tokyonight" />
-
-
-
-##### Caso queira saber mais sobre mim:
+#### Caso queira saber mais sobre mim:
 <a target="_blank" href="https://linkedin.com/in/gustavo-sm"> Linkedin </a>  
 <a target="_blank" href="https://hackerrank.com/gustavosm"> HackerRank (algorithm practice)</a>
 
