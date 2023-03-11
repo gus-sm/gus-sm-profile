@@ -16,7 +16,7 @@
 </div> 
 
 
-#### Caso queira saber mais sobre mim:
+### Caso queira saber mais sobre mim:
 <a target="_blank" href="https://linkedin.com/in/gustavo-sm"> Linkedin </a>  
 <a target="_blank" href="https://hackerrank.com/gustavosm"> HackerRank (algorithm practice)</a>
 
