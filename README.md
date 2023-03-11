@@ -1,13 +1,13 @@
 ## Olá =D, bem vindo ao meu GitHub 👋
 <div style="display:flex">
-   <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=007ACC"/>
-   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+   <img src="https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=typescript&logoColor=007ACC"/>
+   <img src="https://img.shields.io/badge/-Nodejs-232F3E?style=flat-square&logo=Node.js"/>
    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
-   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
-   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-   <img src="https://img.shields.io/badge/-terraform-black?style=flat-square&logo=terraform&logoColor=5c4ee5"/>
-   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
-   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+   <img src="https://img.shields.io/badge/-Linux-232F3E?style=flat-square&logo=linux"/>
+   <img src="https://img.shields.io/badge/-Git-232F3E?style=flat-square&logo=git"/>
+   <img src="https://img.shields.io/badge/-terraform-232F3E?style=flat-square&logo=terraform&logoColor=5c4ee5"/>
+   <img src="https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=docker"/>
+   <img src="https://img.shields.io/badge/-MySQL-232F3E?style=flat-square&logo=mysql"/>
 
 </div> <br/>
 
