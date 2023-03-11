@@ -10,15 +10,19 @@
    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 
 </div> <br/>
+
 <div style="display:flex">
    <img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=tokyonight" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-sm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gustavo-sm" />
-</div> 
-
+</div> <br/>
 
 ### Caso queira saber mais sobre mim:
-<a target="_blank" href="https://linkedin.com/in/gustavo-sm"> Linkedin </a>  
-<a target="_blank" href="https://hackerrank.com/gustavosm"> HackerRank (algorithm practice)</a>
+<a target="_blank" href="https://linkedin.com/in/gustavo-sm">
+   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+</a>
+<a target="_blank" href="https://leetcode.com/gustavo-sm/"> 
+   <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'/>
+</a>
 
 ```Typescript
 const job: Job = new Job('Eng. de software Jr.', 'Itaú Unibanco'),
