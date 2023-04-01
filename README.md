@@ -1,4 +1,4 @@
-## Olá =D, bem vindo ao meu GitHub 👋
+## Olá =D <img height="30px" src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif"/>
 <div style="display:flex">
    <img src="https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=typescript&logoColor=007ACC"/>
    <img src="https://img.shields.io/badge/-Nodejs-232F3E?style=flat-square&logo=Node.js"/>
