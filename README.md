@@ -25,7 +25,7 @@
       <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
    </a>
    <a target="_blank" href="https://www.hackerrank.com/gustavosm"> 
-      <img src='https://img.shields.io/badge/-hackerrank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white'/>
+      <img src='https://img.shields.io/badge/-hackerrank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=black'/>
    </a>
    <a target="_blank" href="https://leetcode.com/gustavo-sm/"> 
       <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'/>
