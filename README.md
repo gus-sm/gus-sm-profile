@@ -24,6 +24,9 @@
    <a target="_blank" href="https://linkedin.com/in/gustavo-sm">
       <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
    </a>
+   <a target="_blank" href="https://www.hackerrank.com/gustavosm"> 
+      <img src='https://img.shields.io/badge/-hackerrank-a9d5d4?style=for-the-badge&logo=hackerrank&logoColor=white'/>
+   </a>
    <a target="_blank" href="https://leetcode.com/gustavo-sm/"> 
       <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'/>
    </a>
