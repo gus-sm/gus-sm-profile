@@ -15,7 +15,7 @@
 </div> <br/>
 
 <div style="display:flex">
-   <img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=tokyonight" />
+   <!--<img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=tokyonight" />-->
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-sm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gustavo-sm" />
 </div>
 
