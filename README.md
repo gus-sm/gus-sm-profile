@@ -10,7 +10,9 @@
    <img src="https://img.shields.io/badge/-Git-232F3E?style=flat-square&logo=git"/>
    <img src="https://img.shields.io/badge/-terraform-232F3E?style=flat-square&logo=terraform&logoColor=5c4ee5"/>
    <img src="https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=docker"/>
-   <img src="https://img.shields.io/badge/-MySQL-232F3E?style=flat-square&logo=mysql"/>
+   <img src="https://img.shields.io/badge/-RelationalDB-232F3E?style=flat-square"/>
+   <img src="https://img.shields.io/badge/-NonRelationalDB-232F3E?style=flat-square"/>
+
 
 </div> <br/>
 
