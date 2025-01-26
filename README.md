@@ -19,16 +19,3 @@
    <!--<img src="https://github-readme-stats.vercel.app/api?username=gustavo-sm&show_icons=true&count_private=true&theme=tokyonight" />-->
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-sm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gustavo-sm" />
 </div>
-
-### Caso queira saber mais sobre mim:
-<div style="display:flex">
-   <a target="_blank" href="https://linkedin.com/in/gustavo-sm">
-      <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
-   </a>
-   <a target="_blank" href="https://www.hackerrank.com/gustavosm"> 
-      <img src='https://img.shields.io/badge/-hackerrank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=black'/>
-   </a>
-   <a target="_blank" href="https://leetcode.com/gustavo-sm/"> 
-      <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'/>
-   </a>
-</div> <br/> 
