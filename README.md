@@ -1,6 +1,6 @@
 ## Olá =D <img height="30px" src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif"/>
 
-> Oi :), me chamo Gustavo, tenho 23 anos e atualmente trabalho como Eng. de software Jr. no Itaú Unibanco.
+> Oi :)
 
 <div style="display:flex">
    <img src="https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=typescript&logoColor=007ACC"/>
